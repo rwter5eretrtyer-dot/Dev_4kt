@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: kt4
-  labels:
-    app.kubernetes.io/part-of: kt4-devsecops
